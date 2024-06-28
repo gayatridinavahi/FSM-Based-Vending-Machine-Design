@@ -1,4 +1,4 @@
-# FSM-Based-Clock-Design
+# FSM-Based-Vending-Machine-Design
 
 ## Introduction
 Automation has transformed the modern world. Today, instead of shopkeepers manually selling items, we have automated machines that accept payments and dispense products. Vending machines are devices where customers insert coins or use credit cards to buy items like newspapers, snacks, beverages, or tickets. They offer a highly practical purchasing method.
