@@ -7,3 +7,6 @@ The Vending Machine follows FIFO characteristic.
 
 This project focuses on a vending machine that dispenses items that the user can customise/visualise. 
 
+## Results
+The functioning of the machine has been verified as shown in the waveform below.
+![image](https://github.com/user-attachments/assets/7841f6fc-c51c-4c1d-9bfa-2ba972519e56)
